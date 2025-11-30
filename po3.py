@@ -8,8 +8,8 @@ from aiogram.types import FSInputFile
 from aiogram.exceptions import TelegramForbiddenError, TelegramRetryAfter
 
 # Load API Token from environment variable
-API_TOKEN = "7812126040:AAGaPuhcPP9zLAuyzsVkGFeQN9ymeP_flTc"  # Replace with your bot token
-TARGET_USER_ID = [6562341069,1822934375]
+API_TOKEN = ""  # Replace with your bot token
+TARGET_USER_ID = []
 MUSIC_FOLDER = r"/Users/tatipoki/Downloads/"
 # Setup logging (log to both file and console)
 logging.basicConfig(
